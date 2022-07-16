@@ -63,7 +63,7 @@
     "sinon": "2.3.7",
     "sizzle": "2.3.5",
     "strip-json-comments": "2.0.1",
-    "testswarm": "1.1.0",
+    "testswarm": "1.1.2",
     "uglify-js": "3.4.7"
   },
   "scripts": {
